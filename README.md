@@ -6,11 +6,11 @@ Made and deployed locally suing hardhat
 
 ## To RUN
 
-Clone the repo
+Clone the repo	
 
-npm install
-npx hardhat node - To start the local node
-npm start - To start the application in local host
+npm install	
+npx hardhat node - To start the local node	
+npm start - To start the application in local host	
 
 Connect using your metamask wallet on port 8545, import local accounts
 Start buying stuffs
