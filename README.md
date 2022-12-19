@@ -2,7 +2,7 @@
 
 A Music NFT marketplace where people are able to buy a music NFT from the market place and the commission goes to the artist
 
-Made and deployed locally suing hardhat
+Made and deployed locally using hardhat
 
 ## To RUN
 
