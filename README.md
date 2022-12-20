@@ -16,7 +16,7 @@ npm install
 ## Usage
 
 ```sh
-npx hardhat --> then connect your metamask wallet to the port 8545
+npx hardhat --> npm start --> then connect your metamask wallet to the port 8545
 ```
 
 ## Run tests
