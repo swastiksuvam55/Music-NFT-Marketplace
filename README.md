@@ -31,7 +31,7 @@ npx hardhat test
 
 * Twitter: [@SuvamSwastik](https://twitter.com/SuvamSwastik)
 * Github: [@swastiksuvam55](https://github.com/swastiksuvam55)
-* LinkedIn: [@swastik suvam singh](https://linkedin.com/in/swastik suvam singh)
+* LinkedIn: [@swastik suvam singh](https://www.linkedin.com/in/swastik-suvam-singh-116324205/)
 
 ## Show your support
 
